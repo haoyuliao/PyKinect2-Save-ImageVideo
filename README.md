@@ -10,6 +10,10 @@ https://github.com/sxs4337/PyKinect2/tree/master/examples
 
 https://github.com/valdivj/Pykinect-Basics 
 
+3. OpenCV video recording example
+
+https://www.codingforentrepreneurs.com/blog/how-to-record-video-in-opencv-python
+
 Recommending steps to build environments before running codes:
 1. Install Python 2.7
 2. pip install PyKinect2
