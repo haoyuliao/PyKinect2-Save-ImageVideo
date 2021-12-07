@@ -18,17 +18,11 @@ https://www.codingforentrepreneurs.com/blog/how-to-record-video-in-opencv-python
 ## Set up ##
 Recommending steps to build environments before running codes:
 1. Install Python 2.7
-```
-3. pip install PyKinect2
-```
-4. Go to PyKinect2 library (https://github.com/Kinect/PyKinect2), and downloading three files under the pykinect2 folder in that hyperlink.
-```
-5. Cover the files in step 2's folder (eg. ..Lib/site-packages/pykinect2).
-```
-6. pip install comtypes==1.1.4
-```
-7. pip install opencv-python==4.2.0.32
-```
+2. pip install PyKinect2
+3. Go to PyKinect2 library (https://github.com/Kinect/PyKinect2), and downloading three files under the pykinect2 folder in that hyperlink.
+4. Cover the files in step 2's folder (eg. ..Lib/site-packages/pykinect2).
+5. pip install comtypes==1.1.4
+6. pip install opencv-python==4.2.0.32
 
 After building environments, you should be fine to run the examples.
 
